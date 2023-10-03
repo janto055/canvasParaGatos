@@ -1,4 +1,3 @@
-# canvasParaGatos
 # AND101 Project 3 - AnimalApps
 
 Submitted by: **Jaydon Antoine**
